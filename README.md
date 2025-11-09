@@ -11,8 +11,8 @@ This project is designed to demonstrate SQL skills and techniques typically used
 3: Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.
 4: Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data.
 
-# sql File Name that contails all queries and all
-
+# sql File Name link that contails all queries and all
+  https://github.com/praveen2153/Retail-Sales-Analysis-Project/blob/main/Retail_dataset_sql_project.sql
 
 # Findings
 
